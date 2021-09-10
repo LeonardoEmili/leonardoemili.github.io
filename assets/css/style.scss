@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+.wrapper header img {
+    border-radius: 50%; 
+    margin-bottom: 20px;
+}
+
+#socials>a {
+    font-size: 32px;
+    margin-right: 8px;
+}
