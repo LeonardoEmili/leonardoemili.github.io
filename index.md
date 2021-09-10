@@ -6,7 +6,7 @@ Enrolled in a master's degree with a strong focus in Machine Learning/Deep Learn
 
 - **Word-in-Context Disambiguation**: WiC as a binary classification task aims to assess whether polysemous words are used with the same meaning. Source code is available [here](https://github.com/LeonardoEmili/sapienza-projects/tree/main/nlp2021-hw1){:target="_blank"}. Paper is available [here](assets/data/wic_paper.pdf){:target="_blank"}.
 
-- **Distributed Stock Price Forecasting**: Stock price forecasting system to predict S&amp;P 500 stock prices. Source code is available [~~here~~](){:target="_blank"}. Paper is available [~~here~~](){:target="_blank"}.
+- **Distributed Stock Price Forecasting**: Stock price forecasting system to predict S&amp;P 500 stock prices, built using Apache Spark. Source code is available [~~here~~](){:target="_blank"}. Paper is available [~~here~~](){:target="_blank"}.
 
 - **Wikifier**: Entity Linking is the task of tagging a span of text with entities in a target knowledge base. Source code is available [here](https://github.com/LeonardoEmili/Wikifier){:target="_blank"}.
     <details>
