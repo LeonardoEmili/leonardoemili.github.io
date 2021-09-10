@@ -3,8 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Leonardo Emili
 description: |+
-  CS Master's student <a href="https://www.uniroma1.it/en/" target=”_blank”>@Sapienza</a>.
-
-  Natural Language Processing and Deep Learning enthusiast.
+  CS Master's student <a href="https://www.uniroma1.it/en/" target=”_blank”>@Sapienza</a>. Natural Language Processing and Deep Learning enthusiast.
 logo: https://github.com/LeonardoEmili.png?size=256
 github: [metadata]
