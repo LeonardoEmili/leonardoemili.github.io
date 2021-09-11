@@ -1,5 +1,5 @@
 # About
-Enrolled in a master's degree with a strong focus in Machine Learning/Deep Learning. Currently working on improving semantic embeddings for named entities under the supervision of [Prof. Roberto Navigli](https://www.diag.uniroma1.it/navigli/). Read the detailed CV that you may find [here]().
+Enrolled in a master's degree with a strong focus in Machine Learning/Deep Learning. Currently working on improving semantic embeddings for named entities under the supervision of Prof. Roberto Navigli.
 
 ## Selected projects
 - **Aspect-Based Sentiment Analysis**: Multitask learning approach to identify aspects and categories of target entities in SemEval-2014, using BERT contextualized-embeddings and Conditional Random Field (CRF). Source code is available [here](https://github.com/LeonardoEmili/sapienza-projects/tree/main/nlp2021-hw2){:target="_blank"}. Paper is available [here](assets/data/absa_paper.pdf){:target="_blank"}.
