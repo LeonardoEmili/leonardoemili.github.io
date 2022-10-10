@@ -1,5 +1,6 @@
 # About
-Enrolled in a master's degree with a strong focus in Machine Learning/Deep Learning. Currently working on improving named entity representations under the supervision of Prof. Roberto Navigli.
+MSc degree in CS with solid background and working experience in Machine Learning/Deep Learning/Distributed Systems. Previously, I worked as a research engineer in language modelling at [Apple](https://www.linkedin.com/company/apple/), 
+multilingual named entity disambiguation and dictionary definitions generation at [Sapienza](https://www.linkedin.com/school/sapienzauniversitadiroma/).
 
 ## Selected projects
 - **Aspect-Based Sentiment Analysis**: Multitask learning approach to identify aspects and categories of target entities in SemEval-2014, using BERT contextualized-embeddings and Conditional Random Field (CRF). Source code is available [here](https://github.com/LeonardoEmili/Aspect-Based-Sentiment-Analysis). Report is available [here](assets/data/absa_report.pdf).
