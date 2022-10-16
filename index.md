@@ -1,5 +1,5 @@
 # About
-MSc degree in CS with solid background and working experience in Machine Learning/Deep Learning/Distributed Systems. Previously, I worked as a research engineer in language modelling at [Apple](https://www.linkedin.com/company/apple/), 
+MSc degree in CS with solid background and working experience in Machine Learning/Deep Learning/Distributed Systems. Previously, I worked as a research engineer in the Language Modelling team for Siri at [Apple](https://www.linkedin.com/company/apple/), 
 multilingual named entity disambiguation and dictionary definitions generation at [Sapienza](https://www.linkedin.com/school/sapienzauniversitadiroma/).
 
 ## Selected projects
