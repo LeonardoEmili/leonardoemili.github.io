@@ -1,6 +1,7 @@
 # About
-MSc degree in CS with solid background and working experience in Machine Learning/Deep Learning/Distributed Systems. Previously, I worked as a research engineer in the Language Modelling team for Siri at [Apple](https://www.linkedin.com/company/apple/), 
-multilingual named entity disambiguation and dictionary definitions generation at [Sapienza](https://www.linkedin.com/school/sapienzauniversitadiroma/).
+Deep Learning Scientist at [Translated](https://www.linkedin.com/company/translated) with solid background in CS and experience in Deep Learning and Distributed Systems. Previously, I worked as a research engineer in the Language Modelling team at [Apple Siri](https://www.linkedin.com/company/apple/).
+
+{% include_relative pubs.md %}
 
 ## Selected projects
 - **Aspect-Based Sentiment Analysis**: Multitask learning approach to identify aspects and categories of target entities in SemEval-2014, using BERT contextualized-embeddings and Conditional Random Field (CRF). Source code is available [here](https://github.com/LeonardoEmili/Aspect-Based-Sentiment-Analysis). Report is available [here](assets/data/absa_report.pdf).
