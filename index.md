@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About
 ML Research Engineer at [Apple Translate](https://www.apple.com/) with solid background in CS and experience in Deep Learning and Distributed Systems. Previously, I worked as a Deep Learning Scientist at [Translated](https://www.linkedin.com/company/translated) and interned in the Language Modelling team at [Apple Siri](https://www.linkedin.com/company/apple/).
 
